@@ -13,7 +13,7 @@
 
 ---
 
-## 📁 Repository Info
+## 📜 Repository Info
 
 This workspace is a curated collection of my data science scripts, machine learning models, and analytical projects. 
 It features intermediate to advanced implementations spanning data preprocessing, exploratory data analysis (EDA), predictive modeling, and competition submissions.
