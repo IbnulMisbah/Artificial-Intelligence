@@ -49,5 +49,5 @@ It features intermediate to advanced implementations spanning data preprocessing
 ---
 
 <p align="center">
-  <i>"I will be the best." — Working hard today for tomorrow. ♟️</i>
+  <i>"We will be the best." — Working hard today for tomorrow. ♟️</i>
 </p>
