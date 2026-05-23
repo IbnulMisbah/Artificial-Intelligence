@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My AI Journey</h1>
 
-<h3 align="center">Bridging the gap between mathematics, competitive Programming and artificial intelligence. </h3>
+<h3 align="center">Bridging the gap between mathematics, competitive programming and artificial intelligence. </h3>
 
 <p align="center">
   <a href="mailto:abdullahibnulmisbah@gmail.com">
